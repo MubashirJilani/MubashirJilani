@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MubashirJilani
 - 👀 I’m interested in developing websites
-- 🌱 I’m currently learning different coding languages
+- 🌱 I’m currently learning different programming languages
 - 💞️ I’m looking to collaborate on good and extra ordinary projects
 - 📫 you can reach me at mubashirjilani0@gmail.com
 
