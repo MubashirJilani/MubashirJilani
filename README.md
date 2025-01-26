@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MubashirJilani
-- 👀 I’m interested in developing websites
-- 🌱 I’m currently learning different programming languages
-- 💞️ I’m looking to collaborate on good and extra ordinary projects
-- 📫 you can reach me at mubashirjilani0@gmail.com
+- 👀 I’m a Professional Frontend developer.
+- 🌱 I’m currently learning different programming languages.
+- 💞️ I’m looking to collaborate on good and extra ordinary projects.
+- 📫 you can reach me at mubashirjilani0@gmail.com or https://www.linkedin.com/in/mubashir-jilani-a23781332/
 
 
 <!---
